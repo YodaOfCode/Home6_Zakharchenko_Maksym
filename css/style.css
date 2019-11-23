@@ -528,7 +528,7 @@ h1 .secondary-color {
 }
 
 .worker-social-media a:nth-child(1) {
-  background: url("/img/social-media-img/Inteligentny_obiekt_wektorowy.png")
+  background: url("../img/social-media-img/Inteligentny_obiekt_wektorowy.png")
     no-repeat center;
 }
 
@@ -537,7 +537,7 @@ h1 .secondary-color {
 }
 
 .worker-social-media a:nth-child(2) {
-  background: url("/img/social-media-img/Inteligentny_obiekt_wektorowy (1).png")
+  background: url("../img/social-media-img/Inteligentny_obiekt_wektorowy (1).png")
     no-repeat center;
 }
 
@@ -546,7 +546,7 @@ h1 .secondary-color {
 }
 
 .worker-social-media a:nth-child(3) {
-  background: url("/img/social-media-img/Inteligentny_obiekt_wektorowy (2).png")
+  background: url("../img/social-media-img/Inteligentny_obiekt_wektorowy (2).png")
     no-repeat center;
   margin-right: 0;
 }
