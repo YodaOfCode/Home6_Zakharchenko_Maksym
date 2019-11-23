@@ -631,6 +631,7 @@ h1 .secondary-color {
   background-color: #ffffff;
   margin-right: 29px;
   padding-left: 19px;
+  color: #3b434c;
   z-index: 100;
 }
 
@@ -640,6 +641,7 @@ h1 .secondary-color {
   border-radius: 10px;
   background-color: #ffffff;
   padding-left: 20px;
+  color: #3b434c;
   z-index: 100;
 }
 
